@@ -13,7 +13,7 @@
          url('../fonts/changa-regular-webfont[1].woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
+}
 /* Start the CSS*/
 body {
 	margin: 0;
@@ -35,29 +35,29 @@ body {
 }
 
 h1 {
-
+font-family: 'alegreyablack_italic';
 }
 
 h2 {
-
+font-family: 'alegreyablack_italic';
 }
 
 h3 {
-
+font-family: 'alegreyablack_italic';
 }
 
 h4 {
-
+font-family: 'alegreyablack_italic';
 }
 
 h5 {
-
+font-family: 'alegreyablack_italic';
 }
 
 h6 {
-
+font-family: 'alegreyablack_italic';
 }
 
 p {
-
+font-family: 'changaregular';
 }
